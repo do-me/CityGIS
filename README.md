@@ -18,7 +18,7 @@ Also I would appreciate a reference to me and a message (find me on [my blog](ht
 
 If you need help for deployment let me know. The recommended way (if you don't have a homepage yourself yet) is just to use netlify. 
   
-1. Clone/download this repository
+1. Clone/download this repository and unzip 
 2. Change the source code to your needs
 3. Create an account on netlify 
 4. Go to **sites**
