@@ -23,5 +23,5 @@ If you need help for deployment let me know. The recommended way (if you don't h
 3. Create an account on netlify 
 4. Go to **sites**
 5. Drag'n'drop the folder with your `index.html` in the respective field
-6. Change the name of the site to <Yourcity>GIS.netlify.app. 
+6. Change the name of the site to YourcityGIS.netlify.app. 
 7. Done! 
